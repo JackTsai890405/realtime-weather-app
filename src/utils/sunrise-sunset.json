@@ -1,0 +1,52 @@
+[
+  {
+    "locationName": "臺北市",
+    "time": [
+      {
+        "dataTime": "2022-04-16",
+        "sunrise": "05:09",
+        "sunset": "18:48"
+      }
+    ]
+  }, 
+  {
+    "locationName": "桃園市",
+    "time": [
+      {
+        "dataTime": "2022-04-16",
+        "sunrise": "05:09",
+        "sunset": "18:48"
+      }
+    ]
+  },
+  {
+    "locationName": "高雄市",
+    "time": [
+      {
+        "dataTime": "2022-04-16",
+        "sunrise": "05:09",
+        "sunset": "18:48"
+      }
+    ]
+  },
+  {
+    "locationName": "臺中市",
+    "time": [
+      {
+        "dataTime": "2022-04-16",
+        "sunrise": "05:09",
+        "sunset": "18:48"
+      }
+    ]
+  }, 
+  {
+    "locationName": "新北市",
+    "time": [
+      {
+        "dataTime": "2022-04-16",
+        "sunrise": "05:09",
+        "sunset": "18:48"
+      }
+    ]
+  }
+]
